@@ -1,0 +1,31 @@
+/* 
+styles all elements in your webpage here
+
+You can use the following to identify tags in your HTML file to styel:
+- tag: You can specifically identify tags to style. These style rules apply to all elements with that tag
+- class: You can idenitfy a group of tags by giving them a class in the HTML tag, and styling them in this css file
+- id: You can give one specific element an id in the HTML tag so that it is the only element with specific style rules
+
+------------------------------------------------------------------------------------------
+
+For example: 
+
+TAG: The CSS code below shows that all h1 tags will be red
+
+h1 {
+   color: red;
+}
+
+CLASS: The CSS code below shows that all tags with the "happy" class will be red
+
+.happy {
+   color: red;
+}
+
+ID: The CSS code below shows that only one tag, with the id "unique" will be red
+
+#unique {
+   color: red;
+}
+-----------------------------------------------------------------------------------------
+*/
